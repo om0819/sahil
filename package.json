@@ -1,0 +1,13 @@
+{
+  "name": "poorvi-portfolio",
+  "version": "1.0.0",
+  "description": "A personal portfolio website for Poorvi",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 3000",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": ["portfolio", "html", "css", "static"],
+  "author": "Poorvi",
+  "license": "MIT"
+}
